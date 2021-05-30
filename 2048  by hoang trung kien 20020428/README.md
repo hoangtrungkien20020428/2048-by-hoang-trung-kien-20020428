@@ -1,7 +1,6 @@
 *HƯỚNG DẪN CÀI ĐẶT:
-- Sử dụng code block đã dc cài thư viện + SDL,SDL_image,SDL_tft,SDL_image.
--thêm path trong system variables trong environment variables...(liên kết động)
-.path gồm địa chỉ của file dll trong SDL,SDL_image,SDL_tft,SDL_image và mingwn.
+-thêm path trong system variables trong environment variables...(liên kết động) 
+.path gồm địa chỉ của file dll trong SDL,SDL_image,SDL_tft,SDL_image và mingwn(các file này có trong tệp "file" trong các tệp này)
 - Mở file main.exe và chạy.
 hoặc chạy file main.cpp trên code blocks
 
