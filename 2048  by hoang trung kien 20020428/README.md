@@ -1,4 +1,4 @@
-#
+ONLY WINDOW
 *INSTALLATION INSTRUCTIONS: -add path in system variables in environment variables...(dynamic linking).path includes address of dll file in SDL,SDL_image,SDL_tft,SDL_image and mingwn(these files are in "file" " in these files)
 
 Open the main.exe file and run. or run main.cpp file on code blocks
