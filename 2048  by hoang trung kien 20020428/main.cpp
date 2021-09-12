@@ -2,7 +2,11 @@
 #include "graphic.cpp"
 #include "logic.cpp"
 #include "game_play.cpp"
-
+/*
+---------------------------------------------------
+The game is written based on the source code of SDL2 
+---------------------------------------------------
+*/
 
 using namespace std;
 int main( int argc, char* argv[] )
