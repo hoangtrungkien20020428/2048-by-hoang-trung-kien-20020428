@@ -23,11 +23,11 @@ int main( int argc, char* argv[] )
 		}
 		else
 		{
-gamewin.loadFromFile("gamewin.png");
- menu_button_play.loadFromFile("menu_button_play.png");
- menu_button_exit.loadFromFile("menu_button_exit.png");
+ gamewin.loadFromFile("gamewin.png");//load image while you win
+ menu_button_play.loadFromFile("menu_button_play.png");//load button play
+ menu_button_exit.loadFromFile("menu_button_exit.png");//load button exit
 		    bool game=true;
-		    loadmenu();
+		    loadmenu();//load menu
 		    SDL_Event event;
 
 		    SDL_SetRenderDrawColor(gRenderer,0XFF,0XFF,0XFF,0XFF);
